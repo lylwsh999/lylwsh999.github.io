@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-01-09T15:10:31.330Z</updated>
+  <updated>2019-01-12T08:19:22.283Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="http://yoursite.com/2019/01/08/%E8%AF%BE%E7%A8%8B%E5%89%8D%E8%A8%80/"/>
     <id>http://yoursite.com/2019/01/08/课程前言/</id>
     <published>2019-01-08T08:43:09.000Z</published>
-    <updated>2019-01-09T15:10:31.330Z</updated>
+    <updated>2019-01-12T08:19:22.283Z</updated>
     
-    <content type="html"><![CDATA[<hr><p>欢迎大家加入我们的课程，让我们一起学习吧！<br><img src="/2019/01/08/课程前言/xhr.jpg" alt=""><br>在这里我们会学习和磁铁相关的知识。<br>首先，我们有电子教材，同学们可以看到</p>]]></content>
+    <content type="html"><![CDATA[<hr><p>欢迎大家加入我们的课程，让我们一起学习吧！<br><img src="/2019/01/08/课程前言/xhr.jpg" alt=""><br>在这里我们会学习和磁铁相关的知识。<br>首先，我们有电子教材，同学们可以看到书本上关于磁铁的知识。<br><img src="/2019/01/08/课程前言/电子教材.jpg" alt=""><br>其次，我们有视频以及课件资源，在这里为大家提供了学习小视频以及课件，同学可以点击链接下载观看、学习。<br><img src="/2019/01/08/课程前言/视频课件.jpg" alt=""><br>接着，我们还有电子教程，同学们可以对照着电子教程操作课件，帮助同学们学习。<br><img src="/2019/01/08/课程前言/电子教材.jpg" alt=""><br>最后，希望大家可以快乐学习，快乐成长！<br><img src="/2019/01/08/课程前言/xs6.jpg" alt=""></p>]]></content>
     
     <summary type="html">
     
@@ -39,17 +39,49 @@
     <link href="http://yoursite.com/2019/01/08/%E7%94%B5%E5%AD%90%E6%95%99%E6%9D%90/"/>
     <id>http://yoursite.com/2019/01/08/电子教材/</id>
     <published>2019-01-08T05:13:15.000Z</published>
-    <updated>2019-01-09T12:36:42.082Z</updated>
+    <updated>2019-01-12T07:49:59.416Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="/2019/01/08/电子教材/1.jpg" alt=""><br><img src="/2019/01/08/电子教材/2.jpg" alt=""><br><img src="/2019/01/08/电子教材/3.jpg" alt=""></p>]]></content>
+    <content type="html"><![CDATA[<hr><p><img src="/2019/01/08/电子教材/1.jpg" alt=""><br><img src="/2019/01/08/电子教材/2.jpg" alt=""><br><img src="/2019/01/08/电子教材/3.jpg" alt=""></p>]]></content>
     
     <summary type="html">
     
-      
-      
-        &lt;p&gt;&lt;img src=&quot;/2019/01/08/电子教材/1.jpg&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;img src=&quot;/2019/01/08/电子教材/2.jpg&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;img src=&quot;/2019/01/08/电子教材/3.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-
-      
+      &lt;p&gt;我们给大家提供了电子教材，内容与书本一致，大家可以查看哦！&lt;/p&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>视频课件</title>
+    <link href="http://yoursite.com/2019/01/08/%E8%A7%86%E9%A2%91%E8%AF%BE%E4%BB%B6/"/>
+    <id>http://yoursite.com/2019/01/08/视频课件/</id>
+    <published>2019-01-08T04:51:26.000Z</published>
+    <updated>2019-01-12T07:56:50.864Z</updated>
+    
+    <content type="html"><![CDATA[<hr><p>视频资源：<a href="http://www.iqiyi.com/w_19rsm69ait.html?fromvsogou=1" target="_blank" rel="noopener">http://www.iqiyi.com/w_19rsm69ait.html?fromvsogou=1</a><br>课件资源：链接: <a href="https://pan.baidu.com/s/1Z68KH1G_L736ZIqVnBk9tw" target="_blank" rel="noopener">https://pan.baidu.com/s/1Z68KH1G_L736ZIqVnBk9tw</a> 提取码: dja7</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;关于课程学习的视频资源，以及课件都在这里哟！&lt;br&gt;&lt;img src=&quot;/2019/01/08/视频课件/fm.jpg&quot; alt=&quot;封面&quot;&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>电子教程</title>
+    <link href="http://yoursite.com/2019/01/08/%E7%94%B5%E5%AD%90%E6%95%99%E7%A8%8B/"/>
+    <id>http://yoursite.com/2019/01/08/电子教程/</id>
+    <published>2019-01-08T03:45:14.000Z</published>
+    <updated>2019-01-12T07:55:36.821Z</updated>
+    
+    <content type="html"><![CDATA[<hr><p><img src="/2019/01/08/电子教程/电子教程.jpg" alt=""></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;在这里，我们介绍了课件使用的方式！&lt;/p&gt;
     
     </summary>
     
