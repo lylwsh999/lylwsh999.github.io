@@ -1,0 +1,244 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #f0fff0;
+  background-opacity: 0.5;
+}
+.container {
+  box-sizing: border-box;
+  background: rgba(255,255,255,0.3);
+  border: 3px solid #666;
+  border-radius: 24px;
+  width: 72%;
+  margin: 1% auto;
+  padding: 5%;
+  display: flex;
+  flex-direction: column;
+  font-family: "Aquino", Monaco, "时尚中黑简体", "Noto Sans Mono";
+  line-height: 1.5;
+}
+h2 {
+  color: #668bb6;
+}
+h2:before {
+  content: "# ";
+}
+h3 {
+  color: #c396d8;
+}
+h3:before {
+  content: "## ";
+}
+h4 {
+  color: #6fbfb1;
+}
+h4:before {
+  content: "### ";
+}
+h5 {
+  color: #e77724;
+}
+h5:before {
+  content: "#### ";
+}
+.header {
+  display: align-content;
+  align-items: baseline;
+  justify-content: flex-start;
+}
+.header a {
+  text-decoration: none;
+  color: #42426f;
+}
+.header .logo {
+  font-size: 2.6em;
+}
+.header .nav {
+  font-size: 1.5em;
+}
+.header .nav .menu {
+  display: flex;
+}
+.header .nav .menu .menu-item {
+  list-style: none;
+  margin: 0 5%;
+  transition: all 0.3s linear;
+}
+.header .nav .menu .menu-item:hover {
+  transform: scale(1.1);
+}
+.header .nav .menu .menu-item .menu-item-link:hover {
+  color: #4169e1;
+}
+.main {
+  margin: 0;
+  padding: 0;
+}
+.post {
+  margin: 3% 0;
+  padding: 3%;
+  border: 3px solid #ddd;
+  border-radius: 16px;
+  background-color: #fff;
+  background-opacity: 0.5;
+  box-sizing: border-box;
+  transition: all 0.3s linear;
+}
+.post:hover {
+  transform: scale(1.03);
+  background-color: #fff;
+}
+.post .post-title {
+  font-size: 1.8em;
+}
+.post .post-meta {
+  color: #999;
+}
+.post a {
+  display: inline-block;
+  color: #1e90ff;
+  text-decoration: none;
+  transition: all 0.1s linear;
+}
+.post a:hover {
+  transform: scale(1.01);
+  color: #4169e1;
+}
+.post .post-content img {
+  width: 100%;
+  border-radius: 16px;
+  box-shadow: 0 0 5px #1e90ff;
+  transition: all 0.3s linear;
+  margin: 3% 0;
+}
+.post .post-content img:hover {
+  transform: scale(1.01);
+}
+.post .post-content blockquote {
+  border-left: 2px solid #1e90ff;
+  margin: 0;
+}
+.post .post-content blockquote p,
+.post .post-content blockquote footer {
+  margin-left: 3%;
+}
+.post .hljs {
+  border: 2px solid #eee;
+  border-radius: 9px;
+  padding: 3% 4%;
+}
+.post blockquote code,
+.post p code,
+.post li code {
+  color: #4682b4;
+}
+.footer {
+  margin: 0 auto;
+}
+.footer a {
+  display: inline-block;
+  color: #1e90ff;
+  text-decoration: none;
+  transition: all 0.1s linear;
+  color: #42426f;
+}
+.footer a:hover {
+  transform: scale(1.01);
+  color: #4169e1;
+}
+.article {
+  margin: 3% 0;
+  padding: 3%;
+  border: 3px solid #ddd;
+  border-radius: 16px;
+  background-color: #fff;
+  background-opacity: 0.5;
+  box-sizing: border-box;
+}
+.article .article-meta {
+  color: #999;
+}
+.article-content a {
+  display: inline-block;
+  color: #1e90ff;
+  text-decoration: none;
+  transition: all 0.1s linear;
+}
+.article-content a:hover {
+  transform: scale(1.01);
+  color: #4169e1;
+}
+.article-content img {
+  width: 100%;
+  border-radius: 16px;
+  box-shadow: 0 0 5px #1e90ff;
+  transition: all 0.3s linear;
+  margin: 3% 0;
+}
+.article-content img:hover {
+  transform: scale(1.01);
+}
+.article-content blockquote {
+  border-left: 3px solid #1e90ff;
+  margin: 0;
+}
+.article-content blockquote p,
+.article-content blockquote footer {
+  margin-left: 3%;
+}
+.article-content .hljs {
+  border: 3px solid #eee;
+  border-radius: 9px;
+  padding: 3% 4%;
+}
+.article-content blockquote code,
+.article-content p code,
+.article-content li code {
+  color: #4682b4;
+}
+.archive {
+  margin: 3% 0;
+  padding: 3%;
+  border: 3px solid #ddd;
+  border-radius: 16px;
+  background-color: #fff;
+  background-opacity: 0.5;
+  box-sizing: border-box;
+}
+.post-item {
+  background-color: #fff;
+  border-bottom: 3px solid #eee;
+  border-radius: 20px;
+  margin-bottom: 1%;
+  padding: 2%;
+  list-style: none;
+  transition: all 0.3s linear;
+}
+.post-item .post-date {
+  color: #999;
+}
+.post-item .post-title {
+  text-decoration: none;
+  color: #333;
+  font-size: 1.5em;
+  margin-left: 1%;
+}
+.post-item:hover {
+  transform: scale(1.03);
+}
+.page-nav .page-number {
+  margin: 0 1%;
+}
+body {
+  background: url("/images/bg.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: 50% 50%;
+}
+.main-inner {
+  margin-top: 60px;
+  padding: 60px 60px 60px 60px;
+  background: #fff;
+  opacity: 0.8;
+  min-height: 500px;
+}
